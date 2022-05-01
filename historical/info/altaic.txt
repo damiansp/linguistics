@@ -1,0 +1,14 @@
+- Altai
+- Kazak
+- Kirghizk
+- Sary-Uighur
+- Tatar
+- Turkish
+- Turkmen
+- Tuvan
+- Uihur
+- Uzbek
+
+- Ainu
+- Japanese
+- Korean

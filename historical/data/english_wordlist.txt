@@ -250,6 +250,7 @@ louse
 lung
 man
 many
+maple
 marrow
 marry
 meat
@@ -313,6 +314,8 @@ pine
 piss
 plum
 poison
+poplar
+poppy
 pull
 push
 put
@@ -388,6 +391,7 @@ son
 song
 sour
 south
+sparrow
 speak
 spider
 spring

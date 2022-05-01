@@ -1,0 +1,55 @@
+- Albanian
+- Armenian
+- Greek
+
+Celtic
+- Irish
+- Manx
+- Scottish
+- Welsh
+
+Germanic
+- Danish
+- Dutch
+- English
+- German
+- Icelandic
+- Norwegian
+- Swedish
+
+Indo-Iranian
+- Bengali
+- Farsi
+- Gujarati
+- Hindi
+- Kashmiri
+- Marathi
+- Nepali
+- Punjabi
+- Sinhala
+
+Romance
+- Catalan
+- French
+- Italian
+- Portuguese
+- Provencal
+- Romanian
+- Spanish
+
+Slavic
+- Belarusian
+- Bulgarian
+- Czech
+- Latvian
+- Lithuanian
+- Polish
+- Russian
+- Serbo-Croatian
+  - Bosnian
+  - Croatian
+  - Serbian
+- Slovenian
+- Ukrainian
+
+
