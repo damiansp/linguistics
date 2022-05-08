@@ -1,6 +1,6 @@
 - Altai
-- Kazak
-- Kirghizk
+- Kazak(h)
+- Kirghiz/Kyrgyz
 - Sary-Uighur
 - Tatar
 - Turkish
