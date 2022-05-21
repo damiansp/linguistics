@@ -1,0 +1,5 @@
+Via Google Translate:
+Word selected must:
+- be the first entry, or
+- be tied with the first frequency, and
+- have the English translate as its first/primary entry
